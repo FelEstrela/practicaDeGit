@@ -1,1 +1,2 @@
-let chelsea = "KTBFFH"
+let chelsea = "KTBFFH";
+let team = "Chelsea";
